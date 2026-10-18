@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS AI — Autonomous Enterprise Guard & Intelligence System",
+  "description": "Defensive security operations platform with AI-driven threat analysis, MITRE ATT&CK mapping, explainable risk scoring, incident lifecycle management, and human-in-the-loop response playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
